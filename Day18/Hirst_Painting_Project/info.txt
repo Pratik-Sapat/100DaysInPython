@@ -1,0 +1,3 @@
+install colorgram:
+    pip install colorgram.py
+
