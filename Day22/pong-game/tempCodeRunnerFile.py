@@ -1,1 +1,0 @@
-scoreboard.r_point()
