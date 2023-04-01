@@ -1,5 +1,0 @@
-
-
-Right Side Paddle ->Up and Down key
-
-Left Side Paddle -> w and s key
