@@ -25,7 +25,6 @@ print(f"{user_2.username} = followers {user_2.followers} : following {user_2.fol
 # print(user_1.followers)
 
 
-
 #Remember.
 #attributes are the things that object has. like variable.
 #methods are the things that object does.
