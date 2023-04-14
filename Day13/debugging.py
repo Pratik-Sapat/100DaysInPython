@@ -4,5 +4,5 @@
 #             print("you got it")
 # my_function()
 
-# range function goes till 19 tha's why it not print you got it to run this make range to 21;
+# range function goes till 19 tha's why it not print you got it to run this make range to 21.;
 
