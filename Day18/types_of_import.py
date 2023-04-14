@@ -12,7 +12,6 @@ from turtle import *
 ted = Turtle()
 
 #or
-
 # alias name
 import turtle as t
 top = t.Turtle()
