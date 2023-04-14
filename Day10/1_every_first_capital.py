@@ -18,4 +18,4 @@ print(f_string)
 f_string = format_name(input("First name : "), input("Last name : "))
 print(f_string)
 
-#title function can make every first word capital in  sentence;
+#title function can make every first word capital in  sentence.
