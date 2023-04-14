@@ -1,4 +1,4 @@
-#check if prettytable installed or not.
+#check if prettytable installed or not..
 
 from prettytable import PrettyTable
 table = PrettyTable()
