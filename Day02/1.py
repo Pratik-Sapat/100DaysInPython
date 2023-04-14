@@ -1,4 +1,4 @@
-# print(len(1555))type error - 
+# print(len(1555))type error.
 
 print("Hello"[1]) # pulling out a word subscripting
 
